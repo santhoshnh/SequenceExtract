@@ -29,8 +29,7 @@ This Python script extracts sequences from a FASTA file based on a minimum lengt
 ```bash
 python extract_sequences.py example.fasta output.fasta 500
 
-
-This will extract sequences with a length greater than or equal to 600 bp from example.fasta and save them to output.fasta.
+##This will extract sequences with a length greater than or equal to 600 bp from example.fasta and save them to output.fasta.
 Requirements
 
     Python 3.x
